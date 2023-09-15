@@ -4,6 +4,7 @@
 using namespace std;
 typedef unsigned long long tipo_entero;
 
+/*
 bool primo(tipo_entero i){
     bool primo = 0;
         tipo_entero cont = 0; //acumulador
@@ -14,7 +15,7 @@ bool primo(tipo_entero i){
             primo = true;
     return primo;
 }
-/*
+*/
 bool primo(int n)
 {
     const int SQRT_N = sqrt(n); //sqrt(n) == raiz de n
@@ -27,7 +28,6 @@ bool primo(int n)
 
     return true;
 }
-*/
 int main()
 {
     tipo_entero i = 1;
