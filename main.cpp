@@ -16,7 +16,7 @@ bool primo(tipo_entero i){
     return primo;
 }
 */
-bool primo(int n)
+bool primo(int )
 {
     const int SQRT_N = sqrt(n); //sqrt(n) == raiz de n
 
