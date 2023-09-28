@@ -1,2 +1,2 @@
 # Collatz
-Diferentes códigos sobre el teorema de Collatz.
+Diferentes códigos sobre la conjetura de Collatz.
